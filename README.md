@@ -35,15 +35,15 @@ python3 binary_file_detector.py /path/to/your/file
 
 Use --help for usage information:
 
-###Help
+### Help
 If you have any questions or run into any issues, please open an issue on the GitHub repository.
 
-###Authors
+### Authors
 Grispan
 
-###Version History
+### Version History
 0.1
 Initial Release
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
