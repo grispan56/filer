@@ -27,14 +27,23 @@ Please note, handling binaries can get complex quickly and this script provides 
 pip install pefile pyelftools macholib
 ```
 
-4. Executing program
+4. Execute program
 Run the script on a file:
+```
+python3 binary_file_detector.py /path/to/your/file
+```
 
-bash
-Copy code
-python binary_file_detector.py /path/to/your/file
 Use --help for usage information:
 
-bash
-Copy code
-python binary_file_detector.py --help
+###Help
+If you have any questions or run into any issues, please open an issue on the GitHub repository.
+
+###Authors
+Grispan
+
+###Version History
+0.1
+Initial Release
+
+###License
+This project is licensed under the MIT License - see the LICENSE file for details.
