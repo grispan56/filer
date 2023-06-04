@@ -20,9 +20,12 @@ Please note, handling binaries can get complex quickly and this script provides 
 1. Clone the repository: 
    ```bash
    git clone https://github.com/grispan56/filer.git
-```
+   ```
 
 2. Install the required dependencies:
+```
+pip install pefile pyelftools macholib
+```
 
 4. Executing program
 Run the script on a file:
